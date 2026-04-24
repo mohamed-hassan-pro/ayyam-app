@@ -85,9 +85,9 @@ lib/
 
 <div align="center">
 
-[![Watch Demo](assets/screen.png)](https://github.com/mohamed-hassan-pro/ayyam-app/raw/main/assets/ayyam_app_v1.mp4)
+[![Watch Demo](https://img.youtube.com/vi/VFbENC8mUTo/maxresdefault.jpg)](https://youtube.com/shorts/VFbENC8mUTo)
 
-*Click the image to watch the demo video*
+*▶ Click to watch the demo on YouTube*
 
 </div>
 
