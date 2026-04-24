@@ -83,7 +83,13 @@ lib/
 
 ## 🎬 Demo
 
-> 📹 Download the demo video from the [Releases page](https://github.com/mohamed-hassan-pro/ayyam-app/releases/tag/v1.0.0).
+<div align="center">
+
+[![Watch Demo](assets/screen.png)](https://github.com/mohamed-hassan-pro/ayyam-app/raw/main/assets/ayyam_app_v1.mp4)
+
+*Click the image to watch the demo video*
+
+</div>
 
 ---
 

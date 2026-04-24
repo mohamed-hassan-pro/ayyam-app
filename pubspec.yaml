@@ -61,3 +61,5 @@ flutter:
   generate: true
   assets:
     - assets/ayyam_app_logo.webp
+    - assets/ayyam_app_v1.mp4
+    - assets/screen.png

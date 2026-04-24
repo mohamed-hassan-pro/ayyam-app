@@ -1,4 +1,4 @@
-# Miscellaneous
+ï»¿# Miscellaneous
 *.class
 *.log
 *.pyc
@@ -47,5 +47,3 @@ app.*.map.json
 analyze_output.txt
 devtools_options.yaml
 
-# Demo video — too large for git, upload to GitHub Releases instead
-assets/ayyam_app_v1.mp4
